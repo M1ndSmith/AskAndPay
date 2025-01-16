@@ -1,6 +1,6 @@
-# Smart Query Engine
+# Ask And Pay
 
-Smart Query Engine is a robust Python application that enables document processing and intelligent query handling using embedding models. It supports file uploads, tracks query usage, and integrates Stripe for secure payment processing. Built with Flask, it is ideal for applications requiring intelligent document interaction.
+Ask And Pay is a robust Python application that enables document processing and intelligent query handling using embedding models. It supports file uploads, tracks query usage, and integrates Stripe for secure payment processing. Built with Flask, it is ideal for applications requiring intelligent document interaction.
 
 ---
 
