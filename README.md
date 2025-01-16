@@ -27,8 +27,8 @@ Follow these steps to set up the application locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smart-query-engine.git
-   cd smart-query-engine
+   git clone https://github.com/your-username/AskAndPay.git
+   cd AskAndPay
    ```
 
 2. Create and activate a virtual environment:
@@ -144,12 +144,12 @@ The application includes automated test scripts and a Jupyter Notebook for easy 
 ## Folder Structure
 
 ```
-smart-query-engine/
+AskAndPay/
 ├── app.py                # Main Flask application
 ├── config.py             # Configuration settings
 ├── test.py               # Test suite for API
 ├── simple_usage.ipynb    # Jupyter Notebook for easy testing
-├── uploads/              # Directory for uploaded files
+├── uploads/              # Directory for uploaded files 
 ├── requirements.txt      # Dependency list
 ├── .env                  # Environment variables (not included in repo)
 ├── README.md             # Project documentation
